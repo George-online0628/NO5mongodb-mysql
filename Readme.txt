@@ -1,4 +1,4 @@
-<!-- name:Geroge
+<!-- name:George
 email:276227382@qq.com
 date:20190712
 introduce:mysql-mongodb汇总比较
